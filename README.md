@@ -11,5 +11,5 @@ Frontend Engineer
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
 
-* ✉️ Contact me at [t.me/rozov1](mailto:t.me/rozov1)
+* ✉️ Contact me at [t.me/rozov1](t.me/rozov1)
  
